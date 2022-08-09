@@ -3,9 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/undo.gif">
 
 - 🌱 I’m currently learning **Data Science**
-
 - 💬 Ask me about **Python, Data Science, Data Structures, MERN stack**
-
 - 📫 How to reach me **sonyakshitha180@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
